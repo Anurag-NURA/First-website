@@ -1,0 +1,172 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+    font-size: 25px;
+    color: #40514E;
+}
+
+h2{
+    color: #1A3C40;
+    font-size: 50px;
+    width: 100%;
+    margin: 0px auto 0px auto;
+}
+
+h3{
+    font-size: 25px;
+}
+
+hr{
+    border: dotted #40514E 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a{
+    font-family:'Nanum Gothic', sans-serif;
+    font-size: 20px;
+    color:#107a86a6;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.h1_name{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 90px;
+    margin: 50px auto 0px auto;
+}
+
+.h2_prog{
+    font-family: 'Lobster', cursive;
+    color: #F05454;
+    font-size: 40px;
+    margin: 0px auto 50px auto;
+    font-weight: normal;
+}
+
+
+.top-container{
+    color: #F05454;
+    background-color: #F5F5F5;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    color:#30475E;
+    position: relative;
+    background-color: #F05454;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+.about_me{
+    width: 30%;
+    margin: 100px auto 10px auto;
+}
+
+.about_me_h2{
+    margin: 30px auto 30px auto;
+}
+
+.my_skills{
+    margin-top: 50px;
+}
+
+.lang1{
+    width: 70%;
+    margin: 100px auto 100px auto;
+    padding-bottom: 50px;
+    text-align: left;
+    line-height: 2;
+}
+
+.lang2{
+    width: 70%;
+    margin: 100px auto 0px auto;
+    padding-bottom: 50px;
+    text-align: left;
+    line-height: 2;
+}
+
+.bottom-container{
+    position: relative;
+    background-color: #30475E;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 450px;
+    bottom: 300px;
+}
+
+.codeIcon{
+    position: relative;
+    top: 17px;
+}
+
+
+.mine_img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.cpp_img{
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin-right: 80px;
+}
+
+
+.java_img{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin: 30px 20px 5px 10px;
+    background-color: #F5F5F5;
+    border-radius: 50%;
+}
+
+.contact_me{
+    text-decoration: none;
+    font-size: 30px;
+    color: #30475E;
+    padding: 10px 20px 10px;
+    border: 2px solid;
+}
+
+.contact_me:hover{
+    color: #F5F5F5;
+    background-color: #1A3C40;
+}
+
+.p_getInTouch{
+    margin-bottom: 30px;
+}
+
+.p_©{
+    font-size: 1rem;
+    color:#F05454;
+    padding: 20px 0px 0px;
+}
